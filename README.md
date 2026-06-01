@@ -23,6 +23,9 @@ The Retail Sales Performance Dashboard is an interactive analytics solution desi
 3. Total Orders - 7,581
 4. Average Ship Days - 4
 
+## Dashboard
+![Dashboard](task2_screenshot.png) 
+
 ## Key Insights
 1. Technology is the highest revenue-generating category.
 2. The West region consistently leads in sales.
