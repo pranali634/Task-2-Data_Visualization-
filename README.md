@@ -40,4 +40,5 @@ The Retail Sales Performance Dashboard is an interactive analytics solution desi
 4. Deploy dashboard to cloud (Power BI Service / Tableau Server)
 5. Build automated data pipeline
 
-Author Pranali Prakash Ranjane
+Author 
+Pranali Prakash Ranjane- Data Analyst Internship 
